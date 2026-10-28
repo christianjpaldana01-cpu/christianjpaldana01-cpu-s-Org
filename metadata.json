@@ -1,0 +1,6 @@
+{
+  "name": "Estructura Interna del Cabello · Instituto Divina Pastora",
+  "description": "Explorador 360° en microscopía HD y anatomía capilar de alta resolución: tallo capilar, folículo piloso, ultraestructura de queratina y mecanismos moleculares en estilismo profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
